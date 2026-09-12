@@ -1,0 +1,4 @@
+# NUNCA subir llaves privadas a este repo.
+*.key
+private*
+.mm-netguard-keys/
